@@ -1,10 +1,10 @@
 const config = {
-    "ownerID": "282453998529806338", //kendi IDınızı yazınız
+    "ownerID": 339446545785159680
     "admins": [""],
     "support": [""],
-    "token": "", //botunuzun tokenini yazınız
+    "token": "", NzY3NTIxNDc4MDAxNDI2NDMz.X4zIFA.91bfcQqWzKCA0VHePyk6wPvS4P0
     "dashboard" : {
-      "oauthSecret": "", //botunuzun secretini yazınız
+      "oauthSecret": "", LduTHl0uX4KCe0kXMv-l-Hxb-jVnBSAN
       "callbackURL": `https://dash.vortexbot.org/callback`, //site URLnizi yazınız /callback kısmını silmeyiniz!
       "sessionSecret": "", //kalsın
       "domain": "https://dash.vortexbot.org/", //site URLnizi yazınız!
